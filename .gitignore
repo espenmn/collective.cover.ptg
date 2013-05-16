@@ -1,0 +1,5 @@
+
+.DS_Store
+
+collective.cover.ptg.egg-info/
+*.pyc
